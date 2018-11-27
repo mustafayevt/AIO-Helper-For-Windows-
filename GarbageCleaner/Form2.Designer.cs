@@ -60,7 +60,7 @@
             this.button1.ForeColor = System.Drawing.Color.Black;
             this.button1.Location = new System.Drawing.Point(17, 62);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(182, 23);
+            this.button1.Size = new System.Drawing.Size(192, 23);
             this.button1.TabIndex = 2;
             this.button1.Text = "For More Info And Check Update";
             this.button1.UseVisualStyleBackColor = true;
